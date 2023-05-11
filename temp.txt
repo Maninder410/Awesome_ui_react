@@ -1,1 +1,2 @@
  https://awesome-ui.vercel.app -> link of the deployment
+ git push -u origin main//this is the command if i want to add the further code after adding and commiting the code 
